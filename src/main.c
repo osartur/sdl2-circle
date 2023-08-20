@@ -1,5 +1,4 @@
 #include <stdlib.h>
-#include <math.h>
 #include "app.h"
 #include "shape.h"
 #include "render.h"
